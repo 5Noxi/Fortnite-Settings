@@ -28,7 +28,7 @@ Contribution:
 Contributions are welcome! If you have improvements or additional features, please fork the repository and submit a pull request.
 
 License:
-Distributed under the MIT License. See LICENSE in the repository for more information.
+Distributed under the GNU GENERAL PUBLIC LICENSE. See LICENSE in the repository for more information.
 
 Support:
 For support, feature requests, or bug reports, please open an issue in the GitHub repository or join the Discord server.
