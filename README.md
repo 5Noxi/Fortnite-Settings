@@ -10,7 +10,7 @@ The Noverse Fortnite Utility is a Windows batch script designed to enhance and a
 - Read-Only Configuration: Sets the configuration file to read-only to prevent accidental changes.
 
 ## Usage Instructions:
-1. Download the Script
+1. Download the [Script](https://github.com/5Noxi/Fortnite-Settings/releases/tag/Fortnite)
 2. Run the Script: Double-click on Noverse_Fortnite-Utility.bat to launch the utility.
 3. Follow On-Screen Prompts: Use the interactive menu to select and apply your preferred settings.
 4. Start Fortnite
@@ -35,4 +35,4 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See LICENSE in the repository 
 
 ## Support:
 
-For support, feature requests, or bug reports, please open an issue in the GitHub repository or join the Discord server.
+For support, feature requests, or bug reports, please open an issue in the GitHub repository or join the [Discord server](https://discord.gg/E2ybG4j9jU).
